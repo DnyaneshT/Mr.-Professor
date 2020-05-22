@@ -24,6 +24,7 @@ Furthermore, the stored procedure takes care of all the posts with higher downvo
 Sometimes, it may happen so that a potential teacher is waiting for a stage to showcase his/her teaching profess.
 All that he/she needs is a well-defined platform.</p>
 
+<h2>Class Diagram</h2>
 ![Class Diagram](Images/classDiagram.jpg)
 
 
