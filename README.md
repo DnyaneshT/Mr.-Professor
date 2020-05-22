@@ -24,11 +24,10 @@ Furthermore, the stored procedure takes care of all the posts with higher downvo
 Sometimes, it may happen so that a potential teacher is waiting for a stage to showcase his/her teaching profess.
 All that he/she needs is a well-defined platform.</p>
 
-<h2>Class Diagrams</h2>
-![](Images/classDiagram.jpg)
+![Class Diagram](Images/classDiagram.jpg)
 
-<h2>Entity Relationship</h2>
-![](Images/ER.jpg)
+
+![Entity Relationship](Images/ER.jpg)
 
 <h2>TECHNOLOGIES USED</h2>
   Front End:-
